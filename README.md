@@ -1,6 +1,6 @@
-### Hi👋, I'm XueRuhao from QingDao, China.
-
-[![xueruhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=xueruhao)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">
+  <img src="./assets/welcome.svg">
+</h1>
 
 - 🔭 I'm a student in Qingdao No. 57 Middle School.
 - 🌱 I'm currently learning about algorithms and development.
