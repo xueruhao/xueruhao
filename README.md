@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/welcome.svg">
+  <img src="./assets/welcome.svg" style = "width:100%;">
 </h1>
 
 - 🔭 I'm a student in Qingdao No.1 High School.
